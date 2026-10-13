@@ -1,0 +1,146 @@
+[
+  {
+    "name": "boss_00",
+    "seconds": 40.0,
+    "peak": 0.55,
+    "rms": 0.0899
+  },
+  {
+    "name": "boss_01",
+    "seconds": 29.091,
+    "peak": 0.55,
+    "rms": 0.0995
+  },
+  {
+    "name": "boss_02",
+    "seconds": 45.714,
+    "peak": 0.55,
+    "rms": 0.133
+  },
+  {
+    "name": "boss_03",
+    "seconds": 33.103,
+    "peak": 0.55,
+    "rms": 0.0973
+  },
+  {
+    "name": "boss_04",
+    "seconds": 36.923,
+    "peak": 0.55,
+    "rms": 0.0965
+  },
+  {
+    "name": "boss_05",
+    "seconds": 38.4,
+    "peak": 0.55,
+    "rms": 0.0895
+  },
+  {
+    "name": "boss_06",
+    "seconds": 50.526,
+    "peak": 0.55,
+    "rms": 0.13
+  },
+  {
+    "name": "boss_07",
+    "seconds": 34.909,
+    "peak": 0.55,
+    "rms": 0.1005
+  },
+  {
+    "name": "boss_08",
+    "seconds": 34.286,
+    "peak": 0.55,
+    "rms": 0.098
+  },
+  {
+    "name": "boss_09",
+    "seconds": 27.429,
+    "peak": 0.55,
+    "rms": 0.0997
+  },
+  {
+    "name": "boss_10",
+    "seconds": 41.739,
+    "peak": 0.55,
+    "rms": 0.0948
+  },
+  {
+    "name": "boss_11",
+    "seconds": 35.556,
+    "peak": 0.55,
+    "rms": 0.0887
+  },
+  {
+    "name": "single",
+    "seconds": 0.3,
+    "peak": 0.55,
+    "rms": 0.167
+  },
+  {
+    "name": "double",
+    "seconds": 0.46,
+    "peak": 0.55,
+    "rms": 0.1379
+  },
+  {
+    "name": "triple",
+    "seconds": 0.65,
+    "peak": 0.55,
+    "rms": 0.1367
+  },
+  {
+    "name": "combo",
+    "seconds": 0.4,
+    "peak": 0.55,
+    "rms": 0.1391
+  },
+  {
+    "name": "b2b",
+    "seconds": 0.55,
+    "peak": 0.55,
+    "rms": 0.1301
+  },
+  {
+    "name": "perfect",
+    "seconds": 1.5,
+    "peak": 0.55,
+    "rms": 0.1346
+  },
+  {
+    "name": "quest",
+    "seconds": 1.1,
+    "peak": 0.55,
+    "rms": 0.102
+  },
+  {
+    "name": "warning",
+    "seconds": 0.8,
+    "peak": 0.55,
+    "rms": 0.1703
+  },
+  {
+    "name": "bosshit",
+    "seconds": 1.2,
+    "peak": 0.55,
+    "rms": 0.1542
+  },
+  {
+    "name": "bossintro",
+    "seconds": 2.4,
+    "peak": 0.55,
+    "rms": 0.1105
+  },
+  {
+    "name": "bossvictory",
+    "seconds": 6.5,
+    "peak": 0.86,
+    "rms": 0.1702
+  },
+  {
+    "name": "rushwin",
+    "seconds": 6.5,
+    "peak": 0.86,
+    "rms": 0.1994
+  }
+]

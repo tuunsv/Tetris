@@ -1,0 +1,175 @@
+{
+  "verification": "STATIC ONLY. C# compilation, C# tests and Windows playback NOT performed. Python property checks listed separately.",
+  "csharp": {
+    "Program.cs": "syntax valid",
+    "Tests/BossTests.cs": "syntax valid",
+    "Tests/RulesTests.cs": "syntax valid",
+    "Core/GameEngine.cs": "syntax valid",
+    "Core/Pieces.cs": "syntax valid",
+    "Core/BossRush.cs": "syntax valid",
+    "Data/SaveStore.cs": "syntax valid",
+    "Audio/AudioEngine.cs": "syntax valid",
+    "UI/BossPortraits.cs": "syntax valid",
+    "UI/MainForm.cs": "syntax valid",
+    "UI/Theme.cs": "syntax valid"
+  },
+  "wav": {
+    "korobeiniki.wav": {
+      "seconds": 58.182,
+      "peak": 0.4847
+    },
+    "rushwin.wav": {
+      "seconds": 6.5,
+      "peak": 0.86
+    },
+    "soft.wav": {
+      "seconds": 0.165,
+      "peak": 0.1656
+    },
+    "triple.wav": {
+      "seconds": 0.65,
+      "peak": 0.55
+    },
+    "bossintro.wav": {
+      "seconds": 2.4,
+      "peak": 0.55
+    },
+    "spin.wav": {
+      "seconds": 0.5,
+      "peak": 0.5433
+    },
+    "level.wav": {
+      "seconds": 0.69,
+      "peak": 0.481
+    },
+    "boss_09.wav": {
+      "seconds": 27.429,
+      "peak": 0.55
+    },
+    "rotate.wav": {
+      "seconds": 0.22,
+      "peak": 0.4545
+    },
+    "quest.wav": {
+      "seconds": 1.1,
+      "peak": 0.55
+    },
+    "single.wav": {
+      "seconds": 0.3,
+      "peak": 0.55
+    },
+    "boss_01.wav": {
+      "seconds": 29.091,
+      "peak": 0.55
+    },
+    "boss_02.wav": {
+      "seconds": 45.714,
+      "peak": 0.55
+    },
+    "over.wav": {
+      "seconds": 1.2,
+      "peak": 0.4354
+    },
+    "tetris.wav": {
+      "seconds": 1.05,
+      "peak": 0.7708
+    },
+    "boss_04.wav": {
+      "seconds": 36.923,
+      "peak": 0.55
+    },
+    "win.wav": {
+      "seconds": 1.24,
+      "peak": 0.5073
+    },
+    "boss_05.wav": {
+      "seconds": 38.4,
+      "peak": 0.55
+    },
+    "warning.wav": {
+      "seconds": 0.8,
+      "peak": 0.55
+    },
+    "lock.wav": {
+      "seconds": 0.245,
+      "peak": 0.5412
+    },
+    "menu.wav": {
+      "seconds": 0.255,
+      "peak": 0.4272
+    },
+    "double.wav": {
+      "seconds": 0.46,
+      "peak": 0.55
+    },
+    "boss_03.wav": {
+      "seconds": 33.103,
+      "peak": 0.55
+    },
+    "combo.wav": {
+      "seconds": 0.4,
+      "peak": 0.55
+    },
+    "b2b.wav": {
+      "seconds": 0.55,
+      "peak": 0.55
+    },
+    "move.wav": {
+      "seconds": 0.165,
+      "peak": 0.1429
+    },
+    "boss_07.wav": {
+      "seconds": 34.909,
+      "peak": 0.55
+    },
+    "boss_10.wav": {
+      "seconds": 41.739,
+      "peak": 0.55
+    },
+    "perfect.wav": {
+      "seconds": 1.5,
+      "peak": 0.55
+    },
+    "boss_06.wav": {
+      "seconds": 50.526,
+      "peak": 0.55
+    },
+    "hard.wav": {
+      "seconds": 0.2,
+      "peak": 0.743
+    },
+    "boss_00.wav": {
+      "seconds": 40.0,
+      "peak": 0.55
+    },
+    "clear.wav": {
+      "seconds": 0.43,
+      "peak": 0.5804
+    },
+    "hold.wav": {
+      "seconds": 0.29,
+      "peak": 0.5088
+    },
+    "bosshit.wav": {
+      "seconds": 1.2,
+      "peak": 0.55
+    },
+    "boss_08.wav": {
+      "seconds": 34.286,
+      "peak": 0.55
+    },
+    "bossvictory.wav": {
+      "seconds": 6.5,
+      "peak": 0.86
+    },
+    "boss_11.wav": {
+      "seconds": 35.556,
+      "peak": 0.55
+    }
+  },
+  "shape_checks": "19 connected shapes; 12 distinct free pentominoes; 4 or 5 cells as appropriate",
+  "python_property_checks": "2000 compaction comparisons + 2000 stone-position invariants passed (Python model, not C# execution)",
+  "srs_tables": "unchanged from base project",
+  "tests_supplied": 62,
+  "csharp_tests_executed": 0
+}

@@ -1,0 +1,18 @@
+name: Windows build and rules tests
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Test game rules
+        run: dotnet run --project Tests/RulesTests.csproj -c Release
+      - name: Build Windows Forms
+        run: dotnet build Tetris118.csproj -c Release -o dist
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Tetris118-Windows
+          path: dist/
